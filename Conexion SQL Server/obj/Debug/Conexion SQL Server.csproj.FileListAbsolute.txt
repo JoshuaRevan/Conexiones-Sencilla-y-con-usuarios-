@@ -1,0 +1,10 @@
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\bin\Debug\Conexion SQL Server.exe.config
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\bin\Debug\Conexion SQL Server.exe
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\bin\Debug\Conexion SQL Server.pdb
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\obj\Debug\Conexion SQL Server.csproj.AssemblyReference.cache
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\obj\Debug\Conexion_SQL_Server.Form1.resources
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\obj\Debug\Conexion_SQL_Server.Properties.Resources.resources
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\obj\Debug\Conexion SQL Server.csproj.GenerateResource.cache
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\obj\Debug\Conexion SQL Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\obj\Debug\Conexion SQL Server.exe
+C:\Users\User\Documents\proyectos C#\Conexion SQL Server\Conexion SQL Server\obj\Debug\Conexion SQL Server.pdb
